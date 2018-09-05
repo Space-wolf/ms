@@ -1,0 +1,36 @@
+/*重置样式*/
+html,body{
+    height:100%;
+}
+body, h1, h2 , dl, dd, p{
+    margin:0;
+}
+body{
+    font:13px "微软雅黑";
+    color:#565656;
+    font-size: 16px;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+    color: #565656;
+}
+/* a:hover{
+    color: #ff3c00;
+} */
+img{
+    vertical-align: top;
+    border:none;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+
+
